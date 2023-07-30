@@ -20,7 +20,8 @@ Personal portfolio website made with Django framework in the backend, and with C
 
 ![Screenshot (75)](https://github.com/BharatMysoori/Portfolio1/assets/139210950/31eadf8e-3bae-48b4-a744-e50f4d9c0063)
 
-![Screenshot (77)](https://github.com/BharatMysoori/Portfolio1/assets/139210950/ee5cd350-2a82-4a52-8510-a6e8bad507be)
+
+![Screenshot (77)](https://github.com/BharatMysoori/Portfolio1/assets/139210950/cfc8e876-331f-4a54-98ee-f047800ff01a)
 
 ![Screenshot (78)](https://github.com/BharatMysoori/Portfolio1/assets/139210950/dc8ecef2-2500-45da-b861-95f59ac071ac)
 
