@@ -24,8 +24,6 @@ Personal portfolio website made with Django framework in the backend, and with C
 
 ![Screenshot (78)](https://github.com/BharatMysoori/Portfolio1/assets/139210950/dc8ecef2-2500-45da-b861-95f59ac071ac)
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/burhanmohammad)
 
 
 ## 🛠 Skills
