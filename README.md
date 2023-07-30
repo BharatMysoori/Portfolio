@@ -55,7 +55,7 @@ If you have any feedback, please reach out to us at mysoori.bharat@gmail.com
 Clone the project
 
 ```bash
-  git clone https://github.com/BurhanMohammad/Django-portfilio-website.git
+  git clone https://github.com/BharatMysoori/Portfolio.git
 ```
 
 Go to the project directory
