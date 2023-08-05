@@ -78,7 +78,7 @@ MAKE  Migration
 Start the server
 
 ```bash
-  python manage.py runserver     
+  python manage.py runserver --insecure 
 ```
 
 
