@@ -1,4 +1,4 @@
-# Portfolio1
+# Portfolio
 My portfolio
 #
 # My Personal Portfilio Website (Django)
@@ -61,7 +61,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Django-portfilio-websitet
+  cd Django-portfilio-website
 ```
 
 MAKE  Migration
